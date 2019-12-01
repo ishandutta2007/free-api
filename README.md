@@ -113,7 +113,7 @@
  - Lexical analysis (can be called online) : Segmentation, part-of-speech tagging, fate, etc. based on big data and user behavior - <a href="https://www.free-api.com/doc/50" target='_ blank'> Interface address </a>
 
 
- - Word vector representation (can be called online) : Word vector calculation is performed through the training method, the language vocabulary .—— <a href="https://www.free-api.com/doc/51" target='_blank'> Interface address </a>
+ - Word vector representation (can be called online) : Word vector calculation is performed through the training method, the language vocabulary . - <a href="https://www.free-api.com/doc/51" target='_blank'> Interface address </a>
 
 
  - Word meaning similarity (can be called online) : Used to calculate the semantic similarity of two given words, based on - <a href="https://www.free-api.com/doc/52" target='_ blank '> Interface address </a>
@@ -131,7 +131,7 @@
  - Text error correction (can be called online) : Text error correction supports short text, long text, speech recognition results - <a href="https://www.free-api.com/doc/56" target='_ blank'> Interface address </a>
 
 
- - Emotional tendency analysis (can be called online) : For Chinese texts with subjective descriptions, it can be automatically determined .—— <a href="https://www.free-api.com/doc/57" target='_blank'> Interface address </a>
+ - Emotional tendency analysis (can be called online) : For Chinese texts with subjective descriptions, it can be automatically determined . - <a href="https://www.free-api.com/doc/57" target='_blank'> Interface address </a>
 
 
  - Review opinion extraction (can be called online) : Automatically analyze comment focus and comment opinion, and output On - <a href="https://www.free-api.com/doc/58" target='_blank'> Interface address </a>
@@ -269,10 +269,10 @@
  - PM2.5 Air Quality Index : This interface is updated once an hour. The air quality index provides real - <a href="https://www.free-api.com/doc/106" target='_blank'> Interface address </a>
 
 
- - Global IP address query : Global IP address—— <a href="https://www.free-api.com/doc/107" target='_blank'> Interface address </a>
+ - Global IP address query : Global IP address- <a href="https://www.free-api.com/doc/107" target='_blank'> Interface address </a>
 
  
- - Domain Name Query : Domain Name Query Geogra—— <a href="https://www.free-api.com/doc/108" target='_blank'> Interface Address </a>
+ - Domain Name Query : Domain Name Query Geogra- <a href="https://www.free-api.com/doc/108" target='_blank'> Interface Address </a>
 
  - Chinese to Pinyin : Convert Chinese characters to Pinyin and Pinyin acronyms— <a href="https://www.free-api.com/doc/110" target='_ blank' > Interface address </a>
 
@@ -339,7 +339,7 @@
  - Nationwide train ticket inquiry b>: The data comes from 12306. Include city list \ column - <a href="https://www.free-api.com/doc/135" target='_blank'> Interface address </a>
 
 
- - Medicine Query : Drug informat—— <a href="https://www.free-api.com/doc/136" target='_blank'> Interface address </a>
+ - Medicine Query : Drug informat- <a href="https://www.free-api.com/doc/136" target='_blank'> Interface address </a>
 
 
  - Recipe Daquan : The information of this recipe comes from the Internet, so this information is only used for - <a href="https://www.free-api.com/doc/137" target='_ blank '> Interface address </a>
@@ -371,13 +371,13 @@
  - Water quality inquiry : Query water quality based on location and time - <a href="https://www.free-api.com/doc/146" target=' _blank '> Interface address </a>
 
 
- - Barcode generation : Provide EAN_8, EAN_13, CODE _—— <a href="https://www.free-api.com/doc/147" target='_ blank'> Interface address </a>
+ - Barcode generation : Provide EAN_8, EAN_13, CODE _- <a href="https://www.free-api.com/doc/147" target='_ blank'> Interface address </a>
 
 
- - Barcode recognition : Provide EAN_8, EAN_13, CODE _—— <a href="https: // www .free-api.com/doc/148" target='_ blank'> Interface address </a>
+ - Barcode recognition : Provide EAN_8, EAN_13, CODE _- <a href="https: // www .free-api.com/doc/148" target='_ blank'> Interface address </a>
 
 
- - National station transfer line query : Provide national station transfer line que—— <a href="https://www.free-api.com/doc/149" target='_ blank'> Interface address </a>
+ - National station transfer line query : Provide national station transfer line que- <a href="https://www.free-api.com/doc/149" target='_ blank'> Interface address </a>
 
 
  - National public transit inquiry : Provide nationwide Bus transfer inquiry - <a href="https://www.free-api.com/doc/150" target='_blank'> Interface address </a>
@@ -386,13 +386,13 @@
  - Car Brand query : Includes nearly 200 brands / sub-brands, tens of thousands of models - <a href="https://www.free-api.com/doc/151" target=' _blank '> Interface address </a>
 
 
- - Zhou Gongjiemeng : Provide relevant information according to Zhou Gongjieme—— <a href="https://www.free-api.com/doc/152" target='_ blank'> Interface address </a>
+ - Zhou Gongjiemeng : Provide relevant information according to Zhou Gongjieme- <a href="https://www.free-api.com/doc/152" target='_ blank'> Interface address </a>
 
 
  - Positive energy news : News of social positive energy, updated daily - <a href="https://www.free-api.com/doc/153" target='_ blank'> Interface address </a>
 
 
- - National Hotel Inquiry : All image links returned by this interface will be within 12 hours.—— <a href="https://www.free-api.com/doc/154" target='_blank'> Interface address </a>
+ - National Hotel Inquiry : All image links returned by this interface will be within 12 hours. - <a href="https://www.free-api.com/doc/154" target='_blank'> Interface address </a>
 
 
  - Classic statement : According to celebrities, look up classic quotes - <a href="https://www.free-api.com/doc/155" target='_blank'> Interface address </a>
@@ -440,7 +440,7 @@
  - Mobile game ranking : The hottest mobile game ranking Leaderboard and Most Expected Leaderboard - <a href="https://www.free-api.com/doc/169" target='_blank'> Interface Address </a>
 
 
- - Online Game Leaderboard : Hottest and Most Expected List of Online Gam—— <a href="https://www.free-api.com/doc/170" target='_ blank'> Interface address </a>
+ - Online Game Leaderboard : Hottest and Most Expected List of Online Gam- <a href="https://www.free-api.com/doc/170" target='_ blank'> Interface address </a>
 
 
  - Gold market price : Gold market of Shanghai Gold Exchange— <a href="https://www.free-api.com/doc/171" target='_ blank'> Interface address </a>
@@ -464,7 +464,7 @@
  - Real-time box office ranking : Real-time box office China (including Hong Kong), North America Global box office - <a href="https://www.free-api.com/doc/177" target='_blank'> Interface address </a>
 
 
- - Iqiyi Hot Trends : Iqiyi Video In—— <a href="https://www.free-api.com/doc/178" target='_blank'> Interface Address </a>
+ - Iqiyi Hot Trends : Iqiyi Video In- <a href="https://www.free-api.com/doc/178" target='_blank'> Interface Address </a>
 
 
  - Air quality index (can be called online) : The air quality index provides real-time air quality, and currently supports - <a href="https://www.free -api.com/doc/179" target='_ blank'> Interface address </a>
@@ -479,7 +479,7 @@
  - Face recognition (can be called online) : Detect the face (Face - <a href="https: //www.free-api.com/doc/182" target='_ blank'> Interface address </a>
 
 
- - Fingerprint recognition : Detect the fingerprint in the image (Fing.—— <a href="https://www.free-api.com/doc/183" target='_blank'> Interface address </a>
+ - Fingerprint recognition : Detect the fingerprint in the image (Fing. - <a href="https://www.free-api.com/doc/183" target='_blank'> Interface address </a>
 
 
  - Medical Room (can be called online) : Obtain medical dictionary items for medical health interface - <a href="https://www.free-api.com/doc/184" target='_blank'> Interface address </a>
@@ -524,7 +524,7 @@
  - Anecdotes (can be called online) : Anecdotes, updated in real time - <a href="https://www.free-api.com/doc/198" target='_ blank'> Interface address </a>
 
 
- - Travel news (can be called online) : Hot tourist data, updated in real t—— <a href="https://www.free-api.com/doc/199" target='_blank'> Interface address </a>
+ - Travel news (can be called online) : Hot tourist data, updated in real t- <a href="https://www.free-api.com/doc/199" target='_blank'> Interface address </a>
 
 
  - Xinhua Dictionary (can be called online) : Xinhua dictionary database, you can check the pinyin, pronunciation, radicals of words - <a href="https: //www.free-api .com/doc/200" target='_ blank'> Interface address </a>
@@ -552,7 +552,7 @@
  - Mobile number attribution (can be called online) : Query attribution, operator, number type by mobile number - <a href="https: //www.free-api .com/doc/208" target='_ blank'> Interface address </a>
 
 
- - Joke Daquan (can be called online) : Massive Internet humor, connotation snippets, interesting pictures, and more.—— <a href="https://www.free-api.com/doc/209" target='_blank'> Interface address </a>
+ - Joke Daquan (can be called online) : Massive Internet humor, connotation snippets, interesting pictures, and more. - <a href="https://www.free-api.com/doc/209" target='_blank'> Interface address </a>
 
 
  - Synonym : Pass The corresponding synonyms for the entered word query - <a href="https://www.free-api.com/doc/210" target='_blank'> Interface address </a>
@@ -567,7 +567,7 @@
  - National postal code query ( Can be called online) : Query the postal code of the area by the place name, accurate to the street - <a href="https://www.free-api.com/doc/213" target='_blank'> Interface address </a>
 
 
- - Zhou Gong Jie Meng (can be called online) : Zhou Gong Jie Meng Daqu—— <a href="https://www.free-api.com/doc/214" target=' _blank '> Interface address </a>
+ - Zhou Gong Jie Meng (can be called online) : Zhou Gong Jie Meng Daqu- <a href="https://www.free-api.com/doc/214" target=' _blank '> Interface address </a>
 
 
  - Celebrity quotes (can be called online) : Query celebrity quotes by keyword - <a href="https: //www.free-api. com/doc/215" target='_ blank'> Interface address </a>
@@ -585,7 +585,7 @@
  - A good number (can be called online) </ b >: All digital types such as mobile phone number, QQ number, license plate number - <a href="https://www.free-api.com/doc/219" target='_blank'> Interface address </a>
 
 
- - Amount lowercase to uppercase (can be called online) : RMB amount lowercase to upperca—— <a href="https://www.free-api.com/doc/220" target='_ blank'> Interface address </a>
+ - Amount lowercase to uppercase (can be called online) : RMB amount lowercase to upperca- <a href="https://www.free-api.com/doc/220" target='_ blank'> Interface address </a>
 
 
  - Movie box office (can be called online) : The latest box office list, online box office - <a href="https://www.free-api.com/doc/221" target='_ blank'> Interface address </a>
@@ -597,7 +597,7 @@
  - Football league (can be called online) : Currently supports the Premier League, La Liga, Bundesliga, Serie A, Ligue 1, - <a href="https://www.free-api.com/doc/223" target='_blank'> Interface address </a>
 
 
- - Film and television news (can be called online) : Retrieval of movie and television information links Information retrie—— <a href="https://www.free-api.com/doc/224" target='_blank'> Interface address </a>
+ - Film and television news (can be called online) : Retrieval of movie and television information links Information retrie- <a href="https://www.free-api.com/doc/224" target='_blank'> Interface address </a>
 
 
  - Standard code query (can be called online) : Results of the standard Chinese code query program provided - <a href="https://www.free-api.com/doc/225" target='_blank'> Interface address </a>
@@ -615,7 +615,7 @@
  - Translate (can be called online) : The translation API provides a free and open interface, covering Chinese, English, - <a href="https: //www.free- api.com/doc/229" target='_ blank'> Interface address </a>
 
 
- - Black cloud vulnerability (can be called online) : Look at the latest security vulnerability of Wu—— <a href="https://www.free-api.com/doc/230" target='_blank'> Interface address </a>
+ - Black cloud vulnerability (can be called online) : Look at the latest security vulnerability of Wu- <a href="https://www.free-api.com/doc/230" target='_blank'> Interface address </a>
 
 
  - WeChat public account Inquiry (can be called online) : Search for popular WeChat articles, WeChat public accounts, etc. based on keywords - <a href="https://www.free-api.com/doc/231" target='_ blank'> Interface address </a>
@@ -674,7 +674,7 @@
  - Encoding and decoding : common Encoding and decoding - <a href="https://www.free-api.com/doc/246"> Interface address </a>
 
 
- - Website record inquiry : Website record letter Query interf—— <a href="https://www.free-api.com/doc/247"> Interface address </a>
+ - Website record inquiry : Website record letter Query interf- <a href="https://www.free-api.com/doc/247"> Interface address </a>
 
 
  - ID information query (can be called online) </ b >: ID card information query (does not support querying centenarians) - <a href="https://www.free-api.com/doc/248"> Interface address </a>
@@ -726,7 +726,7 @@
  - Driving path planning (can be called online) : Plan a plan for commuting by passenger car or car, and return - <a href="https: / /www.free-api.com/doc/261">Interface address </a>
 
 
- - Bus route planning : Planning comprehensive public (train, bus, subway) transportation .—— <a href="https://www.free-api.com/doc/262"> Interface address </a>
+ - Bus route planning : Planning comprehensive public (train, bus, subway) transportation . - <a href="https://www.free-api.com/doc/262"> Interface address </a>
 
 
  - Riding path planning (can be called online) : It is used to plan cycling commuting plan, and road conditions will not be considered when planning - <a href="https://www.free-api.com/doc/263"> Interface address </a>
@@ -765,10 +765,10 @@
 
 ----------
 
- - Retrieval of administrative divisions (can be called online) : Developers can use this function to search within an administrative division (—— <a href="https: //www.free-api .com/doc/273 "> Interface address </a>
+ - Retrieval of administrative divisions (can be called online) : Developers can use this function to search within an administrative division (- <a href="https: //www.free-api .com/doc/273 "> Interface address </a>
 
 
- - Circular area search (available online) : The developer can set the center and radius of the circle to search for the area within the circle .—— <a href="https://www.free-api.com/doc/274"> Interface address </a>
+ - Circular area search (available online) : The developer can set the center and radius of the circle to search for the area within the circle . - <a href="https://www.free-api.com/doc/274"> Interface address </a>
 
 
  - Rectangular area search (can be called online) : The developer can set the coordinates of the lower left corner and the upper right corner of the search area, - <a href="https://www.free-api.com/doc/275"> Interface address </a>
@@ -780,7 +780,7 @@
  - Place input prompt (can be called online) : The user can use this service to match the place where the user enters keywords - <a href="https://www.free-api.com/doc/277">Interface address </a>
 
 
- - Geocoding service (can be called online) : Users can use this function to Structured Address (Province / City /—— <a href="https://www.free-api.com/doc/278">Interface address </a>
+ - Geocoding service (can be called online) : Users can use this function to Structured Address (Province / City /- <a href="https://www.free-api.com/doc/278">Interface address </a>
 
 
  - Global Inverse Geocoding (can be called online) : Users can use this function to resolve position coordinates into Corresponding - <a href="https://www.free-api.com/doc/279"> Interface address </a>
@@ -818,7 +818,7 @@
  - File conversion : The file is converted to the specified format, and a successful conversion is returned - <a href="https://www.free-api.com/doc/290 "> Interface address </a>
 
 
- - Get file conversion content : According to the id obtained after the file conversion is successful, the query is converted into.—— <a href="https://www.free-api.com/doc/291"> Interface address </a>
+ - Get file conversion content : According to the id obtained after the file conversion is successful, the query is converted into. - <a href="https://www.free-api.com/doc/291"> Interface address </a>
 
 ----------
 
@@ -865,7 +865,7 @@
  - Get relevant information of visitors (can be called online) : According to the visitor's IP address, operating system, browser, access ... <a href="https://www.free-api.com/doc/303"> Interface address </a>
 
 
- - Random avatar output (can be called online) : Random avatar outp—— <a href="https://www.free-api.com/doc/304"> Interface address </a>
+ - Random avatar output (can be called online) : Random avatar outp- <a href="https://www.free-api.com/doc/304"> Interface address </a>
 
 
 ----------
@@ -892,7 +892,7 @@
  - Generate poster </ b >: Create beautiful and shareable posters formatted according to the submitted content - <a href="https://www.free-api.com/doc/309"> Interface address </a>
 
 
- - Today in History : Today in Hist—— <a href="https://www.free-api.com/doc/310"> Interface Address </a>
+ - Today in History : Today in Hist- <a href="https://www.free-api.com/doc/310"> Interface Address </a>
 
 
  - Two-dimensional code : You can generate the corresponding two-dimensional code according to the incoming content, and also - <a href="https://www.free-api.com/doc/311" > Receive Address </a>
