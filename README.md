@@ -95,7 +95,7 @@
  - Human key point recognition (can be called online) : Detect the human body and return the position of the human rectangular frame, accurately locate 1 —— <a href="https://www.free-api.com/doc/44" target='_ blank'> Interface address </a>
 
 
- - Personal traffic statistics (can be called online) : Statistics The number of human bodies and the flow trend in the image, with head and shoulders as —— <a href="https://www.free-api.com/doc/45" target='_blank'> Interface address </ a>
+ - Personal traffic statistics (can be called online) : Statistics The number of human bodies and the flow trend in the image, with head and shoulders as —— <a href="https://www.free-api.com/doc/45" target='_blank'> Interface address </a>
 
 
  - Human detection and attribute recognition (can be called online) : Detect all humans in the image, identify 20 categories of humans —— <a href="https://www.free-api.com/doc/46" target='_ blank'> Interface address </a>
@@ -146,7 +146,7 @@
  - Article classification (can be called online) : Article classification service for article content Perform in-depth analysis, output —— <a href="https://www.free-api.com/doc/61" target='_blank'> Interface address </a>
 
 
- - News summary (can be called online) : Based on the deep semantic analysis model, automatically extract the news text —— <a href="https://www.free-api.com/doc/62" target='_blank'> Interface address </ a>
+ - News summary (can be called online) : Based on the deep semantic analysis model, automatically extract the news text —— <a href="https://www.free-api.com/doc/62" target='_blank'> Interface address </a>
 
 
  - Universal translation (available online) : Support real-time translation between 28 languages, covering Chinese, English, Japanese, —— <a href="https: // www .free-api.com/doc/64" target='_ blank'> Interface address </a>
@@ -491,7 +491,7 @@
  - Drug inquiry (can be called online)  : Obtain the drug manual, price, raw —— <a href="https://www.free-api.com/doc/188" target='_blank'> Interface address </a>
 
 
- - Food Therapy (can be called online) : Get food details by name as long as it is a food —— <a href="https://www.free-api.com/doc/189" target='_blank'> Interface address </ a>
+ - Food Therapy (can be called online) : Get food details by name as long as it is a food —— <a href="https://www.free-api.com/doc/189" target='_blank'> Interface address </a>
 
 
  - Surgery item (can be called online) : Get the details of the surgery by name Get the surgery by name —— <a href="https://www.free-api.com/doc/190" target='_ blank'> Interface address </a>
@@ -577,7 +577,7 @@
  - Current affairs news retrieval (can be called online) : Current affairs news, news retrieval, etc., updated in real time — <a href="https://www.free-api.com/doc/218" target='_blank'> Interface address </a>
 
 
- - A good number (can be called online) </ b >: All digital types such as mobile phone number, QQ number, license plate number —— <a href="https://www.free-api.com/doc/219" target='_blank'> Interface address </ a>
+ - A good number (can be called online) </ b >: All digital types such as mobile phone number, QQ number, license plate number —— <a href="https://www.free-api.com/doc/219" target='_blank'> Interface address </a>
 
 
  - Amount lowercase to uppercase (can be called online) : RMB amount lowercase to upperca—— <a href="https://www.free-api.com/doc/220" target='_ blank'> Interface address </a>
