@@ -103,7 +103,8 @@
  <br>
  - Driving behavior analysis (can be called online) : For vehicle scenarios, Identify the driver using mobile phone, smoking, ...
 —— <a href="https://www.free-api.com/doc/49" target='_blank'> Interface address </a>
- <br> < b> Lexical analysis (can be called online) : Segmentation, part-of-speech tagging, fate, etc. based on big data and user behavior ...
+ <br> 
+ -  Lexical analysis (can be called online) : Segmentation, part-of-speech tagging, fate, etc. based on big data and user behavior ...
 —— <a href = "https://www.free-api.com/doc / 50 "target = '_ blank'> Interface address </a>
  <br>
  - Word vector representation (can be called online) : Word vector calculation is performed through the training method, the language vocabulary .. .
@@ -120,7 +121,8 @@
  <br>
  - Short text similarity (can be called online) : Short text similarity Computing services can provide different short texts ...
 —— <a href="https://www.free-api.com/doc/55" target='_blank'> Interface address </a>
- <br> < b> Text error correction (can be called online) : Text error correction supports short text, long text, speech recognition results ...
+ <br> 
+ -  Text error correction (can be called online) : Text error correction supports short text, long text, speech recognition results ...
 —— <a href = "https://www.free-api.com/ doc / 56 "target = '_ blank'> Interface address </a>
  <br>
  - Emotional tendency analysis (can be called online) : For Chinese texts with subjective descriptions, it can be automatically determined .. .
@@ -208,9 +210,11 @@
  <br>
  - Joke Daquan-text (can be called online) : Updated every hour. A collection of text jokes, information is collected in ...
 —— <a href="https://www.free-api.com/doc/92" target='_blank'> Interface address </a>
- <br> < b> Joke Daquan-pictures (can be called online) : updated every hour. A collection of pictures, jokes, and information are collected in ...
+ <br> 
+ -  Joke Daquan-pictures (can be called online) : updated every hour. A collection of pictures, jokes, and information are collected in ...
 —— <a href="https://www.free-api.com/doc/93" target='_blank'> Interface address </a>
- <br> < b> Latest News : News API interface official self-employed member interface ...
+ <br> 
+ -  Latest News : News API interface official self-employed member interface ...
 —— <a href="https://www.free-api.com/doc/94" target='_blank'> Interface Address </a>
  <br>
  - Meitu Daquan : Get a list of pictures based on dozens of categories, updated daily. Kind of ...
@@ -247,7 +251,8 @@
 —— <a href="https://www.free-api.com/doc/106" target='_blank'> Interface address </a>
  <br>
  - Global IP address query : Global IP address-<a href="https://www.free-api.com/doc/107" target='_blank'> Interface address </a>
- <br> < b> Domain Name Query : Domain Name Query Geography
+ <br> 
+ -  Domain Name Query : Domain Name Query Geography
 —— <a href="https://www.free-api.com/doc/108" target='_blank'> Interface Address </a> <br >
  - Chinese to Pinyin : Convert Chinese characters to Pinyin and Pinyin acronyms— <a href = "https://www.free-api.com/doc/110" target = '_ blank' > Interface address </a>
  <br>
@@ -280,7 +285,8 @@
  <br>
  - Exchange rate conversion : Update once every 1 minute. The current top ten banks, including ICBC ...
 —— <a href="https://www.free-api.com/doc/124" target='_blank'> Interface address </a>
- <br> < b> Add image watermark : Incoming baseboard image and watermark image, according to the position parameter, the interface will ...
+ <br> 
+ -  Add image watermark : Incoming baseboard image and watermark image, according to the position parameter, the interface will ...
 —— <a href = "https://www.free-api.com/doc/125" target = '_ blank'> Interface address </a>
  <br>
  - Image cropping : crop part of the original image-<a href = "https://www.free-api.com / doc / 126 "target = '_ blank'> Interface address </a>
@@ -670,7 +676,8 @@
  <br>
  - Rectangular area search (can be called online) : The developer can set the coordinates of the lower left corner and the upper right corner of the search area, ...
 —— <a href="https://www.free-api.com/doc/275"> Interface address </a>
- <br> < b> Retrieval of Place Details (can be called online) : Retrieval of Place Details is for a specified POI, and retrieves its related ...
+ <br> 
+ -  Retrieval of Place Details (can be called online) : Retrieval of Place Details is for a specified POI, and retrieves its related ...
 —— <a href = "https://www.free-api.com/doc/ 276 "> Interface address </a>
  <br>
  - Place input prompt (can be called online) : The user can use this service to match the place where the user enters keywords ...
