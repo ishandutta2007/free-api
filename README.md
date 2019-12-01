@@ -589,7 +589,7 @@
  - National long-distance bus (can be called online) : National long-distance bus timetable inquiry-<a href="https://www.free-api.com/doc/222" target='_ blank'> Interface address </a>
 
 
- - Football league (can be called online) : Currently supports the Premier League, La Liga, Bundesliga, Serie A, Ligue 1, —— <a href="https://www.free-api.com/doc/223" target='_blank'> Interface address </ a >
+ - Football league (can be called online) : Currently supports the Premier League, La Liga, Bundesliga, Serie A, Ligue 1, —— <a href="https://www.free-api.com/doc/223" target='_blank'> Interface address </a>
 
 
  - Film and television news (can be called online) : Retrieval of movie and television information links Information retrie—— <a href="https://www.free-api.com/doc/224" target='_blank'> Interface address </a>
@@ -647,7 +647,7 @@
 ----------
 
 
- - Real-time snippet (can be called online) : Real-time snippet, version of God's comment-<a href="https://www.free-api.com/doc/240"> interface address </ a >
+ - Real-time snippet (can be called online) : Real-time snippet, version of God's comment-<a href="https://www.free-api.com/doc/240"> interface address </a>
 
 
  - Music search (can be called online) : Return music details according to the music name-<a href="https://www.free-api.com/doc/241"> Interface Address </a>
