@@ -89,7 +89,7 @@
  - Face detection and attribute analysis (can be called online ) : Detect the face in the picture and mark the border for the face. Detection - <a href="https://www.free-api.com/doc/39" target='_blank'> Interface address </a>
 
 
- - Online live detection (may be (Online call) : Provide online face detection capabilities, in face recognition - <a href="https://www.free-api.com/doc/41" target='_blank'> Interface address </a>
+ - Online live detection (may be Online call) : Provide online face detection capabilities, in face recognition - <a href="https://www.free-api.com/doc/41" target='_blank'> Interface address </a>
 
 
  - Human key point recognition (can be called online) : Detect the human body and return the position of the human rectangular frame, accurately locate 1 - <a href="https://www.free-api.com/doc/44" target='_ blank'> Interface address </a>
