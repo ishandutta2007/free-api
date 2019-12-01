@@ -582,7 +582,7 @@
  - Current affairs news retrieval (can be called online) : Current affairs news, news retrieval, etc., updated in real time — <a href="https://www.free-api.com/doc/218" target='_blank'> Interface address </a>
 
 
- - A good number (can be called online) </ b >: All digital types such as mobile phone number, QQ number, license plate number - <a href="https://www.free-api.com/doc/219" target='_blank'> Interface address </a>
+ - A good number (can be called online): All digital types such as mobile phone number, QQ number, license plate number - <a href="https://www.free-api.com/doc/219" target='_blank'> Interface address </a>
 
 
  - Amount lowercase to uppercase (can be called online) : RMB amount lowercase to upperca- <a href="https://www.free-api.com/doc/220" target='_ blank'> Interface address </a>
@@ -677,7 +677,7 @@
  - Website record inquiry : Website record letter Query interf- <a href="https://www.free-api.com/doc/247"> Interface address </a>
 
 
- - ID information query (can be called online) </ b >: ID card information query (does not support querying centenarians) - <a href="https://www.free-api.com/doc/248"> Interface address </a>
+ - ID information query (can be called online): ID card information query (does not support querying centenarians) - <a href="https://www.free-api.com/doc/248"> Interface address </a>
 
 
  - Picture PS : Online picture plus text, returned as a string, need to be processed - <a href="https://www.free-api.com/doc/249"> Interface address </a>
@@ -718,7 +718,7 @@
  - Geocoding (available online) : Convert detailed structured addresses to high German latitude and longitude . - <a href="https://www.free-api.com/doc/258"> Interface address </a>
 
 
- - Reverse Geocoding (can be called online) </ b >: Convert longitude and latitude to a detailed structured address, and return the attached - <a href="https://www.free-api.com/doc/259"> Interface address </a>
+ - Reverse Geocoding (can be called online): Convert longitude and latitude to a detailed structured address, and return the attached - <a href="https://www.free-api.com/doc/259"> Interface address </a>
 
  - Walking path planning : You can plan walking commuting plans within 100KM and - <a href="https://www.free-api.com/doc/260"> Interface Address </a>
 
@@ -889,7 +889,7 @@
  - QR code analysis : Restore the original QR code URL, support Alipay, WeChat - <a href="https://www.free-api.com/doc/308"> Interface address </a>
 
 
- - Generate poster </ b >: Create beautiful and shareable posters formatted according to the submitted content - <a href="https://www.free-api.com/doc/309"> Interface address </a>
+ - Generate poster: Create beautiful and shareable posters formatted according to the submitted content - <a href="https://www.free-api.com/doc/309"> Interface address </a>
 
 
  - Today in History : Today in Hist- <a href="https://www.free-api.com/doc/310"> Interface Address </a>
