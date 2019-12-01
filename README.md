@@ -5,7 +5,7 @@
  - Voice recognition : Optimized by scene recognition, for car navigation, smart home and —— <a href="https: //www.free- api.com/doc/2" target='_ blank'> Interface address </a>
 
 
- - Speech synthesis : Convert user input text into smooth and natural speech input ...—— <a href="https://www.free-api.com/doc/4" target='_blank'> Interface address </a>
+ - Speech synthesis : Convert user input text into smooth and natural speech input —— <a href="https://www.free-api.com/doc/4" target='_blank'> Interface address </a>
 
 
  - Taxi ticket identification (can be called online) : For taxi tickets (now supporting Beijing, Shanghai, Shenzhen) —— <a href="https://www.free-api.com/doc/6" target='_blank'> Interface address </a>
@@ -83,7 +83,7 @@
  - GIF Pornographic image recognition (can be called online) : Artificial intelligence detection technology, intelligently identify the pictures and videos —— <a href="https://www.free-api.com/doc/30" target='_ blank'> Interface address </a>
 
 
- - Image review (can be called online) : Through face detection, text recognition, pornographic recognition, violent identification ...—— <a href="https://www.free-api.com/doc/31" target='_blank'> Interface address </a>
+ - Image review (can be called online) : Through face detection, text recognition, pornographic recognition, violent identification —— <a href="https://www.free-api.com/doc/31" target='_blank'> Interface address </a>
 
 
  - Face detection and attribute analysis (can be called online ) : Detect the face in the picture and mark the border for the face. Detection —— <a href="https://www.free-api.com/doc/39" target='_blank'> Interface address </a>
