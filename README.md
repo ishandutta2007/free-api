@@ -1,5 +1,5 @@
 *** In order to facilitate the majority of developers, here are a number of free APIs on the Internet, collect free interface services for you, be an api porter, and will periodically update new interfaces in the future. Some interfaces come from third parties. Registering with a third party can become their member and use some of their interfaces for free. ***
-<b> Baidu AccessToken : For HTTP API callers, Baidu AIP opens ...
+ - Baidu AccessToken : For HTTP API callers, Baidu AIP opens ...
 
 —— <a href = "https://www.free-api.com/doc/1" target = '_ blank' > Interface address </a>
 
@@ -644,7 +644,7 @@
 ----------
 
 
-<b> Real-time snippet (can be called online) : Real-time snippet, version of God's comment-<a href="https://www.free-api.com/doc/240"> interface address </ a >
+ - Real-time snippet (can be called online) : Real-time snippet, version of God's comment-<a href="https://www.free-api.com/doc/240"> interface address </ a >
 
 
  - Music search (can be called online) : Return music details according to the music name-<a href="https://www.free-api.com/doc/241"> Interface Address </a>
@@ -700,7 +700,7 @@
 ----------
 
 
-<b> Taobao ip (can be called online) : IP query from Taobao, you can query based on the IP address —— <a href = "https://www.free-api.com/doc/ 256 "> Interface address </a>
+ - Taobao ip (can be called online) : IP query from Taobao, you can query based on the IP address —— <a href = "https://www.free-api.com/doc/ 256 "> Interface address </a>
 
 
  - 360ip (can be called online) : IP query from 360, you can check according to the IP address —— <a href =" https: / /www.free-api.com/doc/257">Interface addresses </a>
@@ -754,7 +754,7 @@
 
 ----------
 
-<b> Retrieval of administrative divisions (can be called online) : Developers can use this function to search within an administrative division (—— <a href = "https: //www.free-api .com / doc / 273 "> Interface address </a>
+ - Retrieval of administrative divisions (can be called online) : Developers can use this function to search within an administrative division (—— <a href = "https: //www.free-api .com / doc / 273 "> Interface address </a>
 
 
  - Circular area search (available online) : The developer can set the center and radius of the circle to search for the area within the circle .—— <a href="https://www.free-api.com/doc/274"> Interface address </a>
@@ -817,7 +817,7 @@
 ----------
 
 
-<b> Global IP geographic location (can be called online) : Single IPv4 / IPv6 address or domain name —— <a href = "https://www.free-api.com/doc/292" > Interface address </a>
+ - Global IP geographic location (can be called online) : Single IPv4 / IPv6 address or domain name —— <a href = "https://www.free-api.com/doc/292" > Interface address </a>
 
 
  - Domain name registration (can be called online) : Query domain registration status according to domain name-<a href = "https://www.free-api.com/ doc / 293 "> Interface address </a>
@@ -865,7 +865,7 @@
 ----------
 
 
-<b> Article short article : Get an article according to the date, either online or famous —— <a href="https://www.free-api.com/doc/305"> Interface address </a>
+ - Article short article : Get an article according to the date, either online or famous —— <a href="https://www.free-api.com/doc/305"> Interface address </a>
 
 
  - Bing Story : Randomly get the story from Bing, which can be obtained according to the pid —— <a href = "https: //www.free- api.com/doc/306">Interface address </a>
