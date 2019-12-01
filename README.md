@@ -50,7 +50,7 @@
  - Ticket identification (can be called online) : Support for VAT invoices, train tickets, taxi tickets (support Support - <a href="https://www.free-api.com/doc/19" target='_blank'> Interface address </a>
 
 
- - Form text recognition </a> b>: Automatic recognition of table lines and table contents, structured output header - <a href="https://www.free-api.com/doc/20" target='_blank'> Interface address </a>
+ - Form text recognition </a> : Automatic recognition of table lines and table contents, structured output header - <a href="https://www.free-api.com/doc/20" target='_blank'> Interface address </a>
 
 
  - General object and scene recognition (can be called online) : Supports more than 100,000 types of object and scene recognition, the interface returns - <a href="https://www.free-api.com/doc/21" target='_blank'> Interface address </a>
@@ -336,7 +336,7 @@
  - Chinese text similarity detection : Determine by calculating the angle between the vectors (cosine formula) - <a href="https://www.free-api.com/doc/134" target='_blank'> Interface address </a>
 
 
- - Nationwide train ticket inquiry b>: The data comes from 12306. Include city list \ column - <a href="https://www.free-api.com/doc/135" target='_blank'> Interface address </a>
+ - Nationwide train ticket inquiry : The data comes from 12306. Include city list \ column - <a href="https://www.free-api.com/doc/135" target='_blank'> Interface address </a>
 
 
  - Medicine Query : Drug informat- <a href="https://www.free-api.com/doc/136" target='_blank'> Interface address </a>
@@ -744,7 +744,7 @@
  - Circular traffic situation : Able to determine the situation of circular traffic situation , Traffic information for 2 minutes - <a href="https://www.free-api.com/doc/267"> Interface address </a>
 
 
- - Designated traffic situation </a> b>: Able to determine the traffic conditions on the designated line, the traffic information is 2 minutes - <a href="https://www.free-api.com/doc/268"> Interface address </a>
+ - Designated traffic situation </a> : Able to determine the traffic conditions on the designated line, the traffic information is 2 minutes - <a href="https://www.free-api.com/doc/268"> Interface address </a>
 
 
  - Input prompt (can be called online) : Provides a query list based on keywords entered by the user to return a list of suggestions - <a href="https://www.free-api.com/doc/269"> Interface address </a>
