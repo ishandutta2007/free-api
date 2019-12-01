@@ -797,7 +797,7 @@
  - Calculating routes in batches : Users can use this service to Coordinate calculation - <a href="https://www.free-api.com/doc/283"> Interface address </a>
 
 
- - Ordinary IP positioning (can be called online) : Users can get big ... — <a href="https://www.free-api.com/doc/284"> Interface address </a>
+ - Ordinary IP positioning (can be called online) : Users can get big  — <a href="https://www.free-api.com/doc/284"> Interface address </a>
 
 
  - Real-time road traffic query (can be called online) : Query Real-time congestion evaluation of specific roads, congested road sections, congestion - <a href="https://www.free-api.com/doc/285"> Interface address </a>
@@ -862,7 +862,7 @@
  - Netease cloud music random songs (can be called online) : Netease cloud music, random song output - <a href="https: //www.free-api. com/doc/302 "> Interface address </a>
 
 
- - Get relevant information of visitors (can be called online) : According to the visitor's IP address, operating system, browser, access ... <a href="https://www.free-api.com/doc/303"> Interface address </a>
+ - Get relevant information of visitors (can be called online) : According to the visitor's IP address, operating system, browser, access  <a href="https://www.free-api.com/doc/303"> Interface address </a>
 
 
  - Random avatar output (can be called online) : Random avatar outp- <a href="https://www.free-api.com/doc/304"> Interface address </a>
@@ -883,7 +883,7 @@
  - Bing Story : Randomly get the story from Bing, which can be obtained according to the pid - <a href="https: //www.free- api.com/doc/306">Interface address </a>
 
 
- - Daily Words : Get the Daily Words from Words, Youdao or Kingsoft PowerWord —... — <a href="https://www.free-api.com/doc/307"> Interface address </a>
+ - Daily Words : Get the Daily Words from Words, Youdao or Kingsoft PowerWord — — <a href="https://www.free-api.com/doc/307"> Interface address </a>
 
 
  - QR code analysis : Restore the original QR code URL, support Alipay, WeChat - <a href="https://www.free-api.com/doc/308"> Interface address </a>
@@ -913,4 +913,4 @@
 ----------
 
 
-Efforts to add ...
+Efforts to add 
