@@ -30,7 +30,8 @@
 
  - Bank card identification (can be called online) : Support for mainstream bank card numbers Identify and return the card issuer and —— <a href="https://www.free-api.com/doc/12" target='_blank'> Interface address </a>
 
- <b > Driver's license recognition (can be called online) : Supports identification of key fields on the front page of the motor vehicle driver's license, including —— <a href = "https://www.free-api.com / doc / 13 "target = '_ blank'> Interface address </a>
+
+ - Driver's license recognition (can be called online) : Supports identification of key fields on the front page of the motor vehicle driver's license, including —— <a href = "https://www.free-api.com / doc / 13 "target = '_ blank'> Interface address </a>
 
 
  - Driver ID recognition (optional Line call) : Supports identification of key fields on the front page of the motor vehicle driving license, including —— <a href = "https://www.free-api.com/doc/14" target = '_ blank'> Interface address </a>
@@ -41,7 +42,8 @@
 
  - VAT invoice identification (can be called online) : Identify and structure return value-added The fields of tax invoices and their —— <a href="https://www.free-api.com/doc/16" target='_blank'> Interface address </a>
 
- <b > Business license identification (can be called online) : Supports identification of key fields of business license, including unit name —— <a href = "https://www.free-api.com/doc / 17" target = '_ blank'> Interface address </a>
+
+ - Business license identification (can be called online) : Supports identification of key fields of business license, including unit name —— <a href = "https://www.free-api.com/doc / 17" target = '_ blank'> Interface address </a>
 
 
  - License plate recognition (can be called online) : Supports recognition of motor vehicle license plates in mainland China, including regions —— <a href="https://www.free-api.com/doc/18" target='_blank'> Interface address </a>
@@ -220,7 +222,8 @@
 
  - ID card query (can be called online) : Query information about the place of identity of the ID card-<a href="https://www.free-api.com/doc/88" target='_blank'> Interface address </a>
 
- <b > Gold data (can be called online) : Gold variety, latest price, opening price, highest price and other information-<a href = "https://www.free-api.com/doc/89" target = '_ blank'> Interface address </a>
+
+ - Gold data (can be called online) : Gold variety, latest price, opening price, highest price and other information-<a href = "https://www.free-api.com/doc/89" target = '_ blank'> Interface address </a>
 
 
  - IP address (can be called online) : According to the IP address or domain name, query the IP address —— <a href = "https://www.free-api.com/doc/90" target = '_ blank'> Interface address </a>
@@ -323,7 +326,8 @@
  - PDF file Text extraction : Extract text information from PDF files-<a href="https://www.free-api.com/doc/129" target='_blank'> Interface address </a> < br>
  - Top Searchwords : Updated every 2 hours. Query the hottest Internet according to the classification —— <a href="https://www.free-api.com/doc/131" target='_blank'> Interface address </a>
 
- <b > Two-dimensional code recognition : According to the Base64 information of the picture, identify the —— <a href = "https://www.free-api.com/doc/132" target = '_ blank '> Interface address </a>
+
+ - Two-dimensional code recognition : According to the Base64 information of the picture, identify the —— <a href = "https://www.free-api.com/doc/132" target = '_ blank '> Interface address </a>
 
 
  - Two-dimensional code generation : Generate a two-dimensional code picture and store it in showapi —— <a href = "https: //www.free- api.com/doc/133 "target = '_ blank'> Interface address </a>
@@ -509,7 +513,8 @@
 
  - International News (available online) : International news data, updated in real time-<a href="https://www.free-api.com/doc/195" target='_blank'> Interface address </a>
 
- <b > Sports news (can be called online) : Sports news data, updated in real time-<a href="https://www.free-api.com/doc/196" target='_blank'> Interface address </a>
+
+ - Sports news (can be called online) : Sports news data, updated in real time-<a href="https://www.free-api.com/doc/196" target='_blank'> Interface address </a>
 
 
  - Technical news (available online) : Technological news data, updated in real time-<a href = "https://www.free-api.com/doc/197 "target = '_ blank'> Interface address </a>
