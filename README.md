@@ -407,7 +407,7 @@
  - Company name is good or bad : According to the company name, Returns the company's fortune score - <a href="https://www.free-api.com/doc/158" target='_blank'> Interface address </a>
 
 
- - License plate number test Good luck : According to the license plate name, return the fortune score of this license plate number - <a href="https://www.free-api.com/doc/159" target='_blank'> Interface address a>
+ - License plate number test Good luck : According to the license plate name, return the fortune score of this license plate number - <a href="https://www.free-api.com/doc/159" target='_blank'> Interface address </a>
 
 
  - Mobile phone number test for good and bad : According to the mobile phone number, return the fortune score of this number - <a href="https://www.free-api.com/doc/160" target='_ blank'> Interface Address </a>
@@ -506,7 +506,7 @@
  - Illness information (can be called online) : Get the details of the illness by name - <a href="https://www.free-api.com/doc/192" target='_blank'> Interface address </a>
 
 
- - WeChat Featured ( Can be called online) : WeChat popular featured articles, updated in real time - <a href="https://www.free-api.com/doc/193" target='_blank'> Interface address a>
+ - WeChat Featured ( Can be called online) : WeChat popular featured articles, updated in real time - <a href="https://www.free-api.com/doc/193" target='_blank'> Interface address </a>
 
 
  - Domestic news (available online) : Domestic news data, real-time New - <a href="https://www.free-api.com/doc/194" target='_blank'> Interface address </a>
