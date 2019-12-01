@@ -65,7 +65,7 @@
  - Plant identification (can be called online) : Plant identification supports more than 20,000 universal plant identification Near —— <a href="https://www.free-api.com/doc/24" target='_blank'> Interface address </a>
 
 
- - Animal recognition (may be Call online) : Support thousands of animal identification, interface return name-<a href="https://www.free-api.com/doc/25" target='_blank'> interface address < / a>
+ - Animal recognition (may be Call online) : Support thousands of animal identification, interface return name-<a href="https://www.free-api.com/doc/25" target='_blank'> interface address </a>
 
 
  - Identification of dishes (can be called online) : Identifies more than 50,000 dishes, the interface returns the name of the dish, —— <a href="https://www.free-api.com/doc/26" target='_ blank'> Interface address </a>
@@ -158,7 +158,7 @@
  - News headline (Can be called online) : Latest news headlines, various social, domestic, international, sports —— <a href="https://www.free-api.com/doc/66" target='_ blank'> Interface address </a>
 
 
- - Mobile phone number attribution (can be called online) : According to the mobile phone number or the first 7 digits of the mobile phone number, check the mobile phone —— <a href="https://www.free-api.com/doc/67" target='_ blank'> Interface address < / a>
+ - Mobile phone number attribution (can be called online) : According to the mobile phone number or the first 7 digits of the mobile phone number, check the mobile phone —— <a href="https://www.free-api.com/doc/67" target='_ blank'> Interface address </a>
 
 
  - Review of lottery draw results (can be called online) : Currently supports two-color ball, big lotto, seven lottery, seven star lottery, —— <a href="https: // www .free-api.com/doc/68" target='_ blank'> Interface address </a>
@@ -185,7 +185,7 @@
  - WeChat Featured (can be called online) : WeChat Featured Articles-<a href="https://www.free-api.com/doc/76" target='_blank'> Interface Address </a>
 
 
- - Joke Daquan (can be called online ) : Collect online humorous, funny, connotative snippets and keep updating-<a href="https://www.free-api.com/doc/77" target='_blank'> Interface address < / a>
+ - Joke Daquan (can be called online ) : Collect online humorous, funny, connotative snippets and keep updating-<a href="https://www.free-api.com/doc/77" target='_blank'> Interface address </a>
 
 
  - National WIFI (can be called online) : Distribution of free WIFI hotspots nationwide-<a href="https://www.free-api.com/doc/78" target='_ blank'> Interface address </a>
@@ -352,7 +352,7 @@
  - Keyword extraction : According to the large text passed in, use TextRank —— <a href="https://www.free-api.com/doc/140" target='_blank'> Interface address </a>
 
 
- - Division of national administrative regions : latest The most comprehensive hierarchical search of provinces, cities, districts, counties, and towns across the country —— <a href="https://www.free-api.com/doc/141" target='_blank'> Interface address < / a>
+ - Division of national administrative regions : latest The most comprehensive hierarchical search of provinces, cities, districts, counties, and towns across the country —— <a href="https://www.free-api.com/doc/141" target='_blank'> Interface address </a>
 
 
  - WeChat Mini Program Inquiry : Search and query WeChat Mini Programs that have been listed. Including basic letter —— <a href="https://www.free-api.com/doc/142" target='_blank'> Interface address </a>
@@ -416,7 +416,7 @@
  - Video query : Video query-<a href="https: //www.free-api.com/doc/162" target='_ blank'> Interface address </a>
 
 
- - Mobile package price : National mobile data recharge, 4G data, current month Valid-<a href="https://www.free-api.com/doc/163" target='_blank'> Interface address < / a>
+ - Mobile package price : National mobile data recharge, 4G data, current month Valid-<a href="https://www.free-api.com/doc/163" target='_blank'> Interface address </a>
 
 
  - Purple Weidou number : Determine the number of Ziwei fighting numbers according to the birth time, for numerology research, —— <a href="https://www.free-api.com/doc/164" target='_blank'> Interface address </a>
@@ -461,7 +461,7 @@
  - Real-time box office ranking : Real-time box office China (including Hong Kong), North America Global box office —— <a href="https://www.free-api.com/doc/177" target='_blank'> Interface address </a>
 
 
- - Iqiyi Hot Trends : Iqiyi Video In—— <a href="https://www.free-api.com/doc/178" target='_blank'> Interface Address < / a>
+ - Iqiyi Hot Trends : Iqiyi Video In—— <a href="https://www.free-api.com/doc/178" target='_blank'> Interface Address </a>
 
 
  - Air quality index (can be called online) : The air quality index provides real-time air quality, and currently supports —— <a href="https://www.free -api.com/doc/179" target='_ blank'> Interface address </a>
@@ -559,7 +559,7 @@
  - NBA events (can be called online) : NBA event schedule information Team schedule match query-<a href="https://www.free-api.com/doc/212" target='_blank'> Interface address </a>
 
 
- - National postal code query ( Can be called online) : Query the postal code of the area by the place name, accurate to the street-<a href="https://www.free-api.com/doc/213" target='_blank'> Interface address < / a>
+ - National postal code query ( Can be called online) : Query the postal code of the area by the place name, accurate to the street-<a href="https://www.free-api.com/doc/213" target='_blank'> Interface address </a>
 
 
  - Zhou Gong Jie Meng (can be called online) : Zhou Gong Jie Meng Daqu—— <a href="https://www.free-api.com/doc/214" target=' _blank '> Interface address </a>
@@ -604,7 +604,7 @@
  - The origin of the surname (can be called online) : "Hundred Family Names" is a collection of surnames of the Han nationality in China, containing more than four hundred —— <a href="https://www.free-api.com/doc/227" target='_ blank'> Interface address </a>
 
 
- - Short link generation (can be called online)  : Find the website to provide long URL links shortened to Sina short network, —— <a href="https://www.free-api.com/doc/228" target='_blank'> Interface address < / a>
+ - Short link generation (can be called online)  : Find the website to provide long URL links shortened to Sina short network, —— <a href="https://www.free-api.com/doc/228" target='_blank'> Interface address </a>
 
 
  - Translate (can be called online) : The translation API provides a free and open interface, covering Chinese, English, —— <a href="https: //www.free- api.com/doc/229" target='_ blank'> Interface address </a>
