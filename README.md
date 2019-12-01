@@ -1,13 +1,11 @@
 *** In order to facilitate the majority of developers, here are a number of free APIs on the Internet, collect free interface services for you, be an api porter, and will periodically update new interfaces in the future. Some interfaces come from third parties. Registering with a third party can become their member and use some of their interfaces for free. ***
- - Baidu AccessToken : For HTTP API callers, Baidu AIP opens ...
-
-—— <a href="https://www.free-api.com/doc/1" target='_ blank' > Interface address </a>
+ - Baidu AccessToken : For HTTP API callers, Baidu AIP opens —— <a href="https://www.free-api.com/doc/1" target='_ blank' > Interface address </a>
 
 
  - Voice recognition : Optimized by scene recognition, for car navigation, smart home and —— <a href="https: //www.free- api.com/doc/2" target='_ blank'> Interface address </a>
 
 
- - Speech synthesis : Convert user input text into smooth and natural speech input ...— — <a href="https://www.free-api.com/doc/4" target='_blank'> Interface address </a>
+ - Speech synthesis : Convert user input text into smooth and natural speech input ...—— <a href="https://www.free-api.com/doc/4" target='_blank'> Interface address </a>
 
 
  - Taxi ticket identification (can be called online) : For taxi tickets (now supporting Beijing, Shanghai, Shenzhen) —— <a href="https://www.free-api.com/doc/6" target='_blank'> Interface address </a>
@@ -85,7 +83,7 @@
  - GIF Pornographic image recognition (can be called online) : Artificial intelligence detection technology, intelligently identify the pictures and videos —— <a href="https://www.free-api.com/doc/30" target='_ blank'> Interface address </a>
 
 
- - Image review (can be called online) : Through face detection, text recognition, pornographic recognition, violent identification ...— — <a href="https://www.free-api.com/doc/31" target='_blank'> Interface address </a>
+ - Image review (can be called online) : Through face detection, text recognition, pornographic recognition, violent identification ...—— <a href="https://www.free-api.com/doc/31" target='_blank'> Interface address </a>
 
 
  - Face detection and attribute analysis (can be called online ) : Detect the face in the picture and mark the border for the face. Detection —— <a href="https://www.free-api.com/doc/39" target='_blank'> Interface address </a>
