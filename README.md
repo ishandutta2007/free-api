@@ -8,7 +8,7 @@
  <br>
  - Speech synthesis : Convert user input text into smooth and natural speech input ...— — <a href="https://www.free-api.com/doc/4" target='_blank'> Interface address </a>
  <br>
- - Taxi ticket identification (can be called online) < / b>: For taxi tickets (now supporting Beijing, Shanghai, Shenzhen) ...
+ - Taxi ticket identification (can be called online) : For taxi tickets (now supporting Beijing, Shanghai, Shenzhen) ...
 —— <a href="https://www.free-api.com/doc/6" target='_blank'> Interface address </a>
  <br>
  - Train ticket identification (can be called online) : Support the ticket number, departure station, destination station of mainland train tickets ...
@@ -53,7 +53,7 @@
  - General object and scene recognition (can be called online) : Supports more than 100,000 types of object and scene recognition, the interface returns ...
 —— <a href="https://www.free-api.com/doc/21" target='_blank'> Interface address </a>
  <br>
- - Image subject detection (can be called online) < / b>: Detect the position of the key subject in the picture, the interface supports detection of a single sheet ...
+ - Image subject detection (can be called online) : Detect the position of the key subject in the picture, the interface supports detection of a single sheet ...
 —— <a href="https://www.free-api.com/doc/22" target='_blank'> Interface address </a>
  <br>
  - Brand logo recognition (can be called online) : Realize 20,000 types of brand logo recognition, the interface returns the brand ...
@@ -112,7 +112,7 @@
  - Word meaning similarity (can be called online) : Used to calculate the semantic similarity of two given words, based on ...
 —— <a href = "https://www.free-api.com/doc/52" target = '_ blank '> Interface address </a>
  <br>
- - Dependency syntax analysis (can be called online) < / b>: Use the dependency relationship between words in a sentence to represent words ...
+ - Dependency syntax analysis (can be called online) : Use the dependency relationship between words in a sentence to represent words ...
 —— <a href="https://www.free-api.com/doc/53" target='_blank'> Interface address </a>
  <br>
  - DNN language model (can be called online) : The language model is calculated by calculating the probability of a sentence composed of given words ...
@@ -200,7 +200,7 @@
  - Books E-commerce data (can be called online) : Choose your favorite among thousands-recommended by good books, worth your ...
 —— <a href="https://www.free-api.com/doc/87" target='_blank'> Interface address </a>
  <br>
- - ID card query (can be called online) < / b>: Query information about the place of identity of the ID card-<a href="https://www.free-api.com/doc/88" target='_blank'> Interface address </a>
+ - ID card query (can be called online) : Query information about the place of identity of the ID card-<a href="https://www.free-api.com/doc/88" target='_blank'> Interface address </a>
  <br> <b > Gold data (can be called online) : Gold variety, latest price, opening price, highest price and other information-<a href = "https://www.free-api.com/doc/89" target = '_ blank'> Interface address </a>
  <br>
  - IP address (can be called online) : According to the IP address or domain name, query the IP address ...
@@ -216,7 +216,7 @@
  - Meitu Daquan : Get a list of pictures based on dozens of categories, updated daily. Kind of ...
 —— <a href="https://www.free-api.com/doc/95" target='_blank'> Interface address </a>
  <br>
- - Query of mobile phone ownership < / b>: The most complete and up-to-date database of mobile phone number segments. Not found locally ...
+ - Query of mobile phone ownership : The most complete and up-to-date database of mobile phone number segments. Not found locally ...
 —— <a href="https://www.free-api.com/doc/96" target='_blank'> Interface address </a>
  <br>
  - History Today Today : Looking back on the long river of history, history is a mirror of life; calendar ...
@@ -358,7 +358,7 @@
  <br>
  - Classic statement : According to celebrities, look up classic quotes-<a href="https://www.free-api.com/doc/155" target='_blank'> Interface address </a>
  <br>
- - Product price comparison < / b>: Search for products, search the calendars of major malls according to the product url ...
+ - Product price comparison : Search for products, search the calendars of major malls according to the product url ...
 —— <a href="https://www.free-api.com/doc/156" target='_blank'> Interface address </a>
  <br>
  - Name score : Based on the name, return the fortune score of this name-<a hr ef = "https://www.free-api.com/doc/157" target = '_ blank'> Interface address </a>
@@ -390,7 +390,7 @@
  <br>
  - Mobile game ranking : The hottest mobile game ranking Leaderboard and Most Expected Leaderboard-<a href="https://www.free-api.com/doc/169" target='_blank'> Interface Address </a>
  <br>
- - Online Game Leaderboard < / b>: Hottest and Most Expected List of Online Games 
+ - Online Game Leaderboard : Hottest and Most Expected List of Online Games 
 —— <a href = "https://www.free-api.com/doc/170" target = '_ blank'> Interface address </a>
  <br>
  - Gold market price : Gold market of Shanghai Gold Exchange— <a href = "https://www.free-api.com/doc / 171 "target = '_ blank'> Interface address </a>
@@ -451,7 +451,7 @@
  <br>
  - Domestic news (available online) : Domestic news data, real-time New-<a href="https://www.free-api.com/doc/194" target='_blank'> Interface address </a>
  <br>
- - International News (available online) < / b>: International news data, updated in real time-<a href="https://www.free-api.com/doc/195" target='_blank'> Interface address </a>
+ - International News (available online) : International news data, updated in real time-<a href="https://www.free-api.com/doc/195" target='_blank'> Interface address </a>
  <br> <b > Sports news (can be called online) : Sports news data, updated in real time-<a href="https://www.free-api.com/doc/196" target='_blank'> Interface address </a>
  <br>
  - Technical news (available online) : Technological news data, updated in real time-<a href = "https://www.free-api.com/doc/197 "target = '_ blank'> Interface address </a>
@@ -520,7 +520,7 @@
  - Film and television news (can be called online) : Retrieval of movie and television information links Information retrieval
 —— <a href="https://www.free-api.com/doc/224" target='_blank'> Interface address </a>
  <br>
- - Standard code query (can be called online) < / b>: Results of the standard Chinese code query program provided-<a href="https://www.free-api.com/doc/225" target='_blank'> Interface address </a>
+ - Standard code query (can be called online) : Results of the standard Chinese code query program provided-<a href="https://www.free-api.com/doc/225" target='_blank'> Interface address </a>
  <br>
  - Train schedule (can be called online) : Train schedule, station-to-station search-<a href = "https://www.free-api.com/doc/226" target = ' _blank '> Interface address </a>
  <br>
@@ -682,7 +682,7 @@
  - Global Inverse Geocoding (can be called online) : Users can use this function to resolve position coordinates into Corresponding ...
 —— <a href="https://www.free-api.com/doc/279"> Interface address </a>
  <br>
- - Bus route planning (can be called online) < / b>: Search for eligible public transportation schemes based on start and end points ...
+ - Bus route planning (can be called online) : Search for eligible public transportation schemes based on start and end points ...
 —— <a href="https://www.free-api.com/doc/280"> Interface address </a> <br >
  - Riding route planning (can be called online) : Retrieve qualified cycling route planning based on the start and end coordinates ...
 —— <a href = "https: //www.free-api. com / doc / 281 "> Interface address </a>
@@ -693,7 +693,7 @@
  - Calculating routes in batches : Users can use this service to Coordinate calculation ...
 —— <a href="https://www.free-api.com/doc/283"> Interface address </a>
  <br>
- - Ordinary IP positioning (can be called online) < / b>: Users can get big ... — <a href="https://www.free-api.com/doc/284"> Interface address </a>
+ - Ordinary IP positioning (can be called online) : Users can get big ... — <a href="https://www.free-api.com/doc/284"> Interface address </a>
  <br>
  - Real-time road traffic query (can be called online) : Query Real-time congestion evaluation of specific roads, congested road sections, congestion ...
 —— <a href="https://www.free-api.com/doc/285"> Interface address </a>
@@ -704,7 +704,7 @@
  - Recommendation of nearby pick-up points (can be called online) : Users can retrieve pick-up points around the coordinate points through this function. ...
 —— <a href="https://www.free-api.com/doc/287"> Interface address </a>
  <br>
- - Non-Baidu coordinate system conversion (can be called online) < / b>: Users can use this service to realize non-Baidu coordinate system → 100 ...
+ - Non-Baidu coordinate system conversion (can be called online) : Users can use this service to realize non-Baidu coordinate system → 100 ...
 —— <a href="https://www.free-api.com/doc/288"> Interface address </a>
  <br>
  - Express query (can be called online) : You can query the express mail of most mainstream courier according to the courier number ...
@@ -736,7 +736,7 @@
  - Lunar query (can be called online) : Obtain lunar calendar, yellow calendar, taboo, week by date Zodiac ...
 —— <a href="https://www.free-api.com/doc/295"> Interface address </a>
  <br>
- - ICP record inquiry (can be called online) < / b>: Query the ICP record number based on the domain name-<a href="https://www.free-api.com/doc/296"> Interface address </a>
+ - ICP record inquiry (can be called online) : Query the ICP record number based on the domain name-<a href="https://www.free-api.com/doc/296"> Interface address </a>
  <br>
  - Three-in-one receipt Two-dimensional code : Collect QQ, WeChat, and Alipay receipts together, eliminating the need for ...
 —— <a href="https://www.free-api.com/doc/297"> Interface address </a>
