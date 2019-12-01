@@ -269,10 +269,11 @@
  - PM2.5 Air Quality Index : This interface is updated once an hour. The air quality index provides real —— <a href="https://www.free-api.com/doc/106" target='_blank'> Interface address </a>
 
 
- - Global IP address query : Global IP address-<a href="https://www.free-api.com/doc/107" target='_blank'> Interface address </a>
+ - Global IP address query : Global IP address—— <a href="https://www.free-api.com/doc/107" target='_blank'> Interface address </a>
 
  
- -  Domain Name Query : Domain Name Query Geogra—— <a href="https://www.free-api.com/doc/108" target='_blank'> Interface Address </a> <br >
+ -  Domain Name Query : Domain Name Query Geogra—— <a href="https://www.free-api.com/doc/108" target='_blank'> Interface Address </a>
+
  - Chinese to Pinyin : Convert Chinese characters to Pinyin and Pinyin acronyms— <a href="https://www.free-api.com/doc/110" target='_ blank' > Interface address </a>
 
 
@@ -361,7 +362,8 @@
  - Generate article summary : According to the incoming long article, the system uses intelligent algorithms to extract —— <a href="https://www.free-api.com/doc/143" target='_blank'> Interface Address </a>
 
 
- - Tibetan Poetry Generation : Tibetan Poetry Generator. You can enter the name to generate Tibetan head, Tibetan tail, —— <a href="https://www.free-api.com/doc/144" target='_blank'> Interface address </a> <br >
+ - Tibetan Poetry Generation : Tibetan Poetry Generator. You can enter the name to generate Tibetan head, Tibetan tail, —— <a href="https://www.free-api.com/doc/144" target='_blank'> Interface address </a>
+
  - International crude oil price inquiry : WTI and Brent oil price inquiry-<a href="https://www.free-api.com/doc/145" target='_blank'> Interface Address </a>
 
 
@@ -622,7 +624,8 @@
  - MD5 crack (can be called online) : md5 ciphertext: 16-bit, 32-bit, sha1 (4 —— <a href="https://www.free-api.com/doc/233" target='_blank'> Interface address </a>
 
 
- - Constellation pairing ( (Can be called online) : Constellation pairing test marriage— <a href="https://www.free-api.com/doc/234" target='_blank'> Interface address </a> <br >
+ - Constellation pairing ( (Can be called online) : Constellation pairing test marriage— <a href="https://www.free-api.com/doc/234" target='_blank'> Interface address </a>
+
  - Chinese zodiac pairing (can be called online) : Chinese zodiac pairing to test marriage— <a href="https://www.free-api.com/doc/235" target='_blank'> Interface Address </a>
 
 
@@ -712,7 +715,8 @@
  - Geocoding (available online) : Convert detailed structured addresses to high German latitude and longitude . —— <a href="https://www.free-api.com/doc/258"> Interface address </a>
 
 
- - Reverse Geocoding (can be called online) </ b >: Convert longitude and latitude to a detailed structured address, and return the attached —— <a href="https://www.free-api.com/doc/259"> Interface address </a> <br >
+ - Reverse Geocoding (can be called online) </ b >: Convert longitude and latitude to a detailed structured address, and return the attached —— <a href="https://www.free-api.com/doc/259"> Interface address </a>
+
  - Walking path planning : You can plan walking commuting plans within 100KM and —— <a href="https://www.free-api.com/doc/260"> Interface Address </a>
 
 
@@ -778,7 +782,8 @@
  - Global Inverse Geocoding (can be called online) : Users can use this function to resolve position coordinates into Corresponding —— <a href="https://www.free-api.com/doc/279"> Interface address </a>
 
 
- - Bus route planning (can be called online) : Search for eligible public transportation schemes based on start and end points —— <a href="https://www.free-api.com/doc/280"> Interface address </a> <br >
+ - Bus route planning (can be called online) : Search for eligible public transportation schemes based on start and end points —— <a href="https://www.free-api.com/doc/280"> Interface address </a>
+
  - Riding route planning (can be called online) : Retrieve qualified cycling route planning based on the start and end coordinates —— <a href="https: //www.free-api. com/doc/281 "> Interface address </a>
 
 
