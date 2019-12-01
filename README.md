@@ -4,7 +4,7 @@
 —— <a href = "https://www.free-api.com/doc/1" target = '_ blank' > Interface address </a>
 
 
- - Voice recognition : Optimized by scene recognition, for car navigation, smart home and —— <a href = "https: //www.free- api.com/doc/2 "target = '_ blank'> Interface address </a>
+ - Voice recognition : Optimized by scene recognition, for car navigation, smart home and —— <a href = "https: //www.free- api.com/doc/2" target = '_ blank'> Interface address </a>
 
 
  - Speech synthesis : Convert user input text into smooth and natural speech input ...— — <a href="https://www.free-api.com/doc/4" target='_blank'> Interface address </a>
@@ -13,10 +13,10 @@
  - Taxi ticket identification (can be called online) : For taxi tickets (now supporting Beijing, Shanghai, Shenzhen) —— <a href="https://www.free-api.com/doc/6" target='_blank'> Interface address </a>
 
 
- - Train ticket identification (can be called online) : Support the ticket number, departure station, destination station of mainland train tickets —— <a href = "https://www.free-api.com/doc/7 "target = '_ blank'> Interface address </a>
+ - Train ticket identification (can be called online) : Support the ticket number, departure station, destination station of mainland train tickets —— <a href = "https://www.free-api.com/doc/7" target = '_ blank'> Interface address </a>
 
 
- - Number recognition (can be called online) : Recognition and extraction of Arabic numerals, suitable for —— <a href = "https://www.free-api.com/doc/ 8 "target = '_ blank'> Interface address </a>
+ - Number recognition (can be called online) : Recognition and extraction of Arabic numerals, suitable for —— <a href = "https://www.free-api.com/doc/ 8" target = '_ blank'> Interface address </a>
 
 
  - Universal text recognition (can be called online) : Supports text detection and recognition in multiple scenarios, multiple ICDA —— <a href="https://www.free-api.com/doc/9" target='_blank'> Interface address </a>
@@ -25,13 +25,13 @@
  - Network image text recognition (can be called online) : can quickly and accurately identify the text in various network pictures, in —— <a href="https://www.free-api.com/doc/10" target='_blank'> Interface address </a>
 
 
- - Identification of ID cards (can be called online) : Supports identification of key fields on the front and back of second-generation resident ID cards —— <a href = "https: / /www.free-api.com/doc/11 "target = '_ blank'> Interface address </a>
+ - Identification of ID cards (can be called online) : Supports identification of key fields on the front and back of second-generation resident ID cards —— <a href = "https: / /www.free-api.com/doc/11" target = '_ blank'> Interface address </a>
 
 
  - Bank card identification (can be called online) : Support for mainstream bank card numbers Identify and return the card issuer and —— <a href="https://www.free-api.com/doc/12" target='_blank'> Interface address </a>
 
 
- - Driver's license recognition (can be called online) : Supports identification of key fields on the front page of the motor vehicle driver's license, including —— <a href = "https://www.free-api.com / doc / 13 "target = '_ blank'> Interface address </a>
+ - Driver's license recognition (can be called online) : Supports identification of key fields on the front page of the motor vehicle driver's license, including —— <a href = "https://www.free-api.com/doc/13" target = '_ blank'> Interface address </a>
 
 
  - Driver ID recognition (optional Line call) : Supports identification of key fields on the front page of the motor vehicle driving license, including —— <a href = "https://www.free-api.com/doc/14" target = '_ blank'> Interface address </a>
@@ -151,7 +151,7 @@
  - News summary (can be called online) : Based on the deep semantic analysis model, automatically extract the news text —— <a href="https://www.free-api.com/doc/62" target='_blank'> Interface address </ a>
 
 
- - Universal translation (available online) : Support real-time translation between 28 languages, covering Chinese, English, Japanese, —— <a href = "https: // www .free-api.com / doc / 64" target = '_ blank'> Interface address </a>
+ - Universal translation (available online) : Support real-time translation between 28 languages, covering Chinese, English, Japanese, —— <a href = "https: // www .free-api.com/doc/64" target = '_ blank'> Interface address </a>
 
 
  - Entity annotation (can be called online) : Combine the context, identify the entity in the text and Link it to —— <a href="https://www.free-api.com/doc/65" target='_blank'> Interface address </a>
@@ -163,7 +163,7 @@
  - Mobile phone number attribution (can be called online) : According to the mobile phone number or the first 7 digits of the mobile phone number, check the mobile phone —— < a href = "https://www.free-api.com/doc/67" target = '_ blank'> Interface address < / a>
 
 
- - Review of lottery draw results (can be called online) : Currently supports two-color ball, big lotto, seven lottery, seven star lottery, —— <a href = "https: // www .free-api.com / doc / 68" target = '_ blank'> Interface address </a>
+ - Review of lottery draw results (can be called online) : Currently supports two-color ball, big lotto, seven lottery, seven star lottery, —— <a href = "https: // www .free-api.com/doc/68" target = '_ blank'> Interface address </a>
 
 
  - Weather forecast (can be called online) : Query weather conditions: temperature, humidity, AQI , Weather, —— <a href="https://www.free-api.com/doc/69" target='_blank'> Interface address </a>
@@ -265,7 +265,7 @@
  - ID query  >: You can check the place of issue, birthday, gender according to the ID number —— <a href="https://www.free-api.com/doc/104" target='_blank'> Interface address </a>
 
 
- - Ai Fei Weather Plugin : Ai Fei Weather is one of the official APIs of ShowAPI —— <a href = "https://www.free-api.com / doc / 105" target = '_ blank'> Interface address </a>
+ - Ai Fei Weather Plugin : Ai Fei Weather is one of the official APIs of ShowAPI —— <a href = "https://www.free-api.com/doc/105" target = '_ blank'> Interface address </a>
 
 
  - PM2.5 Air Quality Index : This interface is updated once an hour. The air quality index provides real —— <a href="https://www.free-api.com/doc/106" target='_blank'> Interface address </a>
@@ -299,7 +299,7 @@
  - Address conversion latitude and longitude : Convert to the corresponding latitude and longitude according to the city and name-<a href = "https://www.free-api.com/doc/120" target = '_ blank'> Interface address </a>
 
 
- - Latitude and longitude conversion address : Convert to the corresponding address based on latitude and longitude-<a href = "https: //www.free-api. com / doc / 121" target = '_ blank'> Interface address </a>
+ - Latitude and longitude conversion address : Convert to the corresponding address based on latitude and longitude-<a href = "https: //www.free-api. com/doc/121" target = '_ blank'> Interface address </a>
 
 
  - Yellow calendar fortune : View the yellow calendar fortune of a certain day based on the date entered-<a href = "https: //www.free-api.com/doc/122" target = '_ blank'> Interface address </a>
@@ -314,10 +314,10 @@
  -  Add image watermark : Incoming baseboard image and watermark image, according to the position parameter, the interface will —— <a href = "https://www.free-api.com/doc/125" target = '_ blank'> Interface address </a>
 
 
- - Image cropping : crop part of the original image-<a href = "https://www.free-api.com / doc / 126" target = '_ blank'> Interface address </a>
+ - Image cropping : crop part of the original image-<a href = "https://www.free-api.com/doc/126" target = '_ blank'> Interface address </a>
 
 
- - Generate thumbnails : Generate thumbnails of the original image based on the incoming ratio-<a href = "https://www.free-api.com/doc/127 "target = '_ blank'> Interface address </a>
+ - Generate thumbnails : Generate thumbnails of the original image based on the incoming ratio-<a href = "https://www.free-api.com/doc/127" target = '_ blank'> Interface address </a>
 
 
  - Constellation fortune : Updated daily at 1:00, 7:00, and 17:00 . Contains twelve constellations —— <a href="https://www.free-api.com/doc/128" target='_blank'> Interface address </a>
@@ -330,7 +330,7 @@
  - Two-dimensional code recognition : According to the Base64 information of the picture, identify the —— <a href = "https://www.free-api.com/doc/132" target = '_ blank '> Interface address </a>
 
 
- - Two-dimensional code generation : Generate a two-dimensional code picture and store it in showapi —— <a href = "https: //www.free- api.com/doc/133 "target = '_ blank'> Interface address </a>
+ - Two-dimensional code generation : Generate a two-dimensional code picture and store it in showapi —— <a href = "https: //www.free- api.com/doc/133" target = '_ blank'> Interface address </a>
 
 
  - Chinese text similarity detection : Determine by calculating the angle between the vectors (cosine formula) —— <a href="https://www.free-api.com/doc/134" target='_blank'> Interface address </a>
@@ -345,10 +345,10 @@
  - Recipe Daquan : The information of this recipe comes from the Internet, so this information is only used for —— <a href = "https://www.free-api.com/doc/137" target = '_ blank '> Interface address </a>
 
 
- - Typographic coordinates of the latest typhoon : You can query the list of typhoons that are currently threatened. For each typhoon —— <a href = "https://www.free-api.com/doc/138 "target = '_ blank'> Interface address </a>
+ - Typographic coordinates of the latest typhoon : You can query the list of typhoons that are currently threatened. For each typhoon —— <a href = "https://www.free-api.com/doc/138" target = '_ blank'> Interface address </a>
 
 
- - Page level query : Google's pr query-<a href = "https://www.free-api.com/doc/139 "target = '_ blank'> Interface address </a>
+ - Page level query : Google's pr query-<a href = "https://www.free-api.com/doc/139" target = '_ blank'> Interface address </a>
 
 
  - Keyword extraction : According to the large text passed in, use TextRank —— <a href="https://www.free-api.com/doc/140" target='_blank'> Interface address </a>
@@ -370,10 +370,10 @@
  - Water quality inquiry : Query water quality based on location and time-<a href = "https://www.free-api.com/doc/146" target = ' _blank '> Interface address </a>
 
 
- - Barcode generation : Provide EAN_8, EAN_13, CODE _—— <a href = "https://www.free-api.com/ doc / 147 "target = '_ blank'> Interface address </a>
+ - Barcode generation : Provide EAN_8, EAN_13, CODE _—— <a href = "https://www.free-api.com/ doc / 147" target = '_ blank'> Interface address </a>
 
 
- - Barcode recognition : Provide EAN_8, EAN_13, CODE _—— <a href = "https: // www .free-api.com / doc / 148 "target = '_ blank'> Interface address </a>
+ - Barcode recognition : Provide EAN_8, EAN_13, CODE _—— <a href = "https: // www .free-api.com/doc/148" target = '_ blank'> Interface address </a>
 
 
  - National station transfer line query : Provide national station transfer line que—— < a href = "https://www.free-api.com/doc/149" target = '_ blank'> Interface address </a>
@@ -385,10 +385,10 @@
  - Car Brand query : Includes nearly 200 brands / sub-brands, tens of thousands of models —— <a href = "https://www.free-api.com/doc/151" target = ' _blank '> Interface address </a>
 
 
- - Zhou Gongjiemeng : Provide relevant information according to Zhou Gongjieme—— <a href = "https://www.free-api.com/doc/ 152 "target = '_ blank'> Interface address </a>
+ - Zhou Gongjiemeng : Provide relevant information according to Zhou Gongjieme—— <a href = "https://www.free-api.com/doc/ 152" target = '_ blank'> Interface address </a>
 
 
- - Positive energy news : News of social positive energy, updated daily-<a href = "https: // www. free-api.com/doc/153 "target = '_ blank'> Interface address </a>
+ - Positive energy news : News of social positive energy, updated daily-<a href = "https: // www. free-api.com/doc/153" target = '_ blank'> Interface address </a>
 
 
  - National Hotel Inquiry : All image links returned by this interface will be within 12 hours.—— <a href="https://www.free-api.com/doc/154" target='_blank'> Interface address </a>
@@ -412,10 +412,10 @@
  - Mobile phone number test for good and bad : According to the mobile phone number, return the fortune score of this number-<a href = "https://www.free-api.com/doc/160" target = '_ blank'> Interface Address </a>
 
 
- - Book ISBN Inquiry : Query books related information by international book number, currently only supports —— <a href = "https: //www.free-api.com/doc/161 "target = '_ blank'> Interface address </a>
+ - Book ISBN Inquiry : Query books related information by international book number, currently only supports —— <a href = "https: //www.free-api.com/doc/161" target = '_ blank'> Interface address </a>
 
 
- - Video query : Video query-<a href = "https: //www.free-api.com/doc/162 "target = '_ blank'> Interface address </a>
+ - Video query : Video query-<a href = "https: //www.free-api.com/doc/162" target = '_ blank'> Interface address </a>
 
 
  - Mobile package price : National mobile data recharge, 4G data, current month Valid-<a href="https://www.free-api.com/doc/163" target='_blank'> Interface address < / a>
@@ -430,7 +430,7 @@
  - Brain brain teasers : Query common brain teaser gold phrases— <a href="https://www.free-api.com/doc/166" target='_blank'> Interface address </a>
 
 
- - Virtual Digital Currency | Bitcoin Quotes : Query the real-time quotes of mainstream virtual currencies, such as btc (than —— <a href = "https://www.free -api.com/doc/167 "target = '_ blank'> Interface address </a>
+ - Virtual Digital Currency | Bitcoin Quotes : Query the real-time quotes of mainstream virtual currencies, such as btc (than —— <a href = "https://www.free -api.com/doc/167" target = '_ blank'> Interface address </a>
 
 
  - National real estate information : Search for the latest real estate opening information, the latest market price information-<a href = "https://www.free-api.com/doc/168" target = '_ blank'> Interface address </a>
@@ -442,22 +442,22 @@
  - Online Game Leaderboard : Hottest and Most Expected List of Online Gam—— <a href = "https://www.free-api.com/doc/170" target = '_ blank'> Interface address </a>
 
 
- - Gold market price : Gold market of Shanghai Gold Exchange— <a href = "https://www.free-api.com/doc / 171 "target = '_ blank'> Interface address </a>
+ - Gold market price : Gold market of Shanghai Gold Exchange— <a href = "https://www.free-api.com/doc / 171" target = '_ blank'> Interface address </a>
 
 
- - E-commerce Taobao platform association words : Provide Taobao association words query-<a href = "https: // www. free-api.com/doc/172 "target = '_ blank'> Interface address </a>
+ - E-commerce Taobao platform association words : Provide Taobao association words query-<a href = "https: // www. free-api.com/doc/172" target = '_ blank'> Interface address </a>
 
 
- - Chinese Antonyms : Chinese Antonyms-<a href = "https: // www. free-api.com/doc/173 "target = '_ blank'> Interface address </a>
+ - Chinese Antonyms : Chinese Antonyms-<a href = "https: // www. free-api.com/doc/173" target = '_ blank'> Interface address </a>
 
 
- - Chinese synonyms : Chinese synonyms-<a href = "https: // www. free-api.com/doc/174 "target = '_ blank'> Interface address </a>
+ - Chinese synonyms : Chinese synonyms-<a href = "https: // www. free-api.com/doc/174" target = '_ blank'> Interface address </a>
 
 
- - Xihou language query : query the Xiehou language list-<a href = "https: // www .free-api.com / doc / 175 "target = '_ blank'> Interface address </a>
+ - Xihou language query : query the Xiehou language list-<a href = "https: // www .free-api.com/doc/175" target = '_ blank'> Interface address </a>
 
 
- - China Internet Network Information : China Internet Network Information-<a href = "https://www.free-api.com/doc/176 "target = '_ blank'> Interface address </a>
+ - China Internet Network Information : China Internet Network Information-<a href = "https://www.free-api.com/doc/176" target = '_ blank'> Interface address </a>
 
 
  - Real-time box office ranking : Real-time box office China (including Hong Kong), North America Global box office —— <a href="https://www.free-api.com/doc/177" target='_blank'> Interface address </a>
@@ -466,7 +466,7 @@
  - Iqiyi Hot Trends : Iqiyi Video In—— <a href="https://www.free-api.com/doc/178" target='_blank'> Interface Address < / a>
 
 
- - Air quality index (can be called online) : The air quality index provides real-time air quality, and currently supports —— <a href = "https://www.free -api.com/doc/179 "target = '_ blank'> Interface address </a>
+ - Air quality index (can be called online) : The air quality index provides real-time air quality, and currently supports —— <a href = "https://www.free -api.com/doc/179" target = '_ blank'> Interface address </a>
 
 
  - IP address query (can be called online) : Provides a rest-style IP address query interface, only Requires —— <a href="https://www.free-api.com/doc/180" target='_blank'> Interface address </a>
@@ -475,7 +475,7 @@
  - Weather forecast (available online (Call) : National weather forecast, forecast 7-day weather, and the day's life —— <a href = "https://www.free-api.com/doc/181" target = '_ blank '> Interface address </a>
 
 
- - Face recognition (can be called online) : Detect the face (Face —— <a href = "https: //www.free-api.com/doc/182 "target = '_ blank'> Interface address </a>
+ - Face recognition (can be called online) : Detect the face (Face —— <a href = "https: //www.free-api.com/doc/182" target = '_ blank'> Interface address </a>
 
 
  - Fingerprint recognition : Detect the fingerprint in the image (Fing.—— <a href="https://www.free-api.com/doc/183" target='_blank'> Interface address </a>
@@ -484,7 +484,7 @@
  - Medical Room (can be called online) : Obtain medical dictionary items for medical health interface-<a href="https://www.free-api.com/doc/184" target='_blank'> Interface address </a>
 
 
- - Healthy recipes (can be called online) : Healthy recipes, let people experience homely in the vented city —— <a href = "https: / /www.free-api.com/doc/186 "target = '_ blank'> Interface address </a>
+ - Healthy recipes (can be called online) : Healthy recipes, let people experience homely in the vented city —— <a href = "https: / /www.free-api.com/doc/186" target = '_ blank'> Interface address </a>
 
 
  - Illness information (can be called online) : Get disease details by name- <a href="https://www.free-api.com/doc/187" target='_blank'> Interface address </a>
@@ -496,7 +496,7 @@
  - Food Therapy (can be called online) : Get food details by name as long as it is a food —— <a href="https://www.free-api.com/doc/189" target='_blank'> Interface address </ a>
 
 
- - Surgery item (can be called online) : Get the details of the surgery by name Get the surgery by name —— <a href = "https://www.free-api.com / doc / 190 "target = '_ blank'> Interface address </a>
+ - Surgery item (can be called online) : Get the details of the surgery by name Get the surgery by name —— <a href = "https://www.free-api.com/doc/190" target = '_ blank'> Interface address </a>
 
 
  - Pharmacy pharmacy (can be called online) : Obtain pharmacy information by name Obtain pharmacy by name —— < a href = "https://www.free-api.com/doc/191" target = '_ blank'> Interface address </a>
@@ -517,16 +517,16 @@
  - Sports news (can be called online) : Sports news data, updated in real time-<a href="https://www.free-api.com/doc/196" target='_blank'> Interface address </a>
 
 
- - Technical news (available online) : Technological news data, updated in real time-<a href = "https://www.free-api.com/doc/197 "target = '_ blank'> Interface address </a>
+ - Technical news (available online) : Technological news data, updated in real time-<a href = "https://www.free-api.com/doc/197" target = '_ blank'> Interface address </a>
 
 
- - Anecdotes (can be called online) : Anecdotes, updated in real time-<a href = "https://www.free-api.com/doc/198 "target = '_ blank'> Interface address </a>
+ - Anecdotes (can be called online) : Anecdotes, updated in real time-<a href = "https://www.free-api.com/doc/198" target = '_ blank'> Interface address </a>
 
 
  - Travel news (can be called online) : Hot tourist data, updated in real t—— <a href="https://www.free-api.com/doc/199" target='_blank'> Interface address </a>
 
 
- - Xinhua Dictionary (can be called online)  : Xinhua dictionary database, you can check the pinyin, pronunciation, radicals of words —— <a href = "https: //www.free-api .com / doc / 200 "target = '_ blank'> Interface address </a>
+ - Xinhua Dictionary (can be called online)  : Xinhua dictionary database, you can check the pinyin, pronunciation, radicals of words —— <a href = "https: //www.free-api .com/doc/200" target = '_ blank'> Interface address </a>
 
 
  - Wubi radical (can be called online) : Query Wubi radical of Chinese characters-<a href = "https://www.free-api.com/doc/201" target = '_ blank'> Interface address </a>
@@ -539,14 +539,14 @@
  - Xihou language (can be called online) : Xihou language query, search for Xiazi language based on keywords-<a href = "https://www.free-api.com/doc/204" target = ' _blank '> Interface address </a>
 
 
- - Tang Poems and Songs (can be called online) : Search for Tang Poems and Songs based on keywords-<a href = "https: //www.free-api. com / doc / 205 "target = '_ blank'> Interface address </a>
+ - Tang Poems and Songs (can be called online) : Search for Tang Poems and Songs based on keywords-<a href = "https: //www.free-api. com/doc/205" target = '_ blank'> Interface address </a>
 
 
  - Today in history (can be called online) : Taking history as a mirror, you can know what to do. Borrow success or failure in history —— <a href="https://www.free-api.com/doc/206" target='_blank'> Interface address </a>
 
 
  - Cihai (can be called online) : Query word explanation-<a href="https://www.free-api.com/doc/207" target='_blank'> Interface address </a> < br>
- - Mobile number attribution (can be called online) : Query attribution, operator, number type by mobile number —— <a href = "https: //www.free-api .com / doc / 208 "target = '_ blank'> Interface address </a>
+ - Mobile number attribution (can be called online) : Query attribution, operator, number type by mobile number —— <a href = "https: //www.free-api .com/doc/208" target = '_ blank'> Interface address </a>
 
 
  - Joke Daquan (can be called online) : Massive Internet humor, connotation snippets, interesting pictures, and more.—— <a href="https://www.free-api.com/doc/209" target='_blank'> Interface address </a>
@@ -567,7 +567,7 @@
  - Zhou Gong Jie Meng (can be called online) : Zhou Gong Jie Meng Daqu—— <a href = "https://www.free-api.com/doc/214" target = ' _blank '> Interface address </a>
 
 
- - Celebrity quotes (can be called online) : Query celebrity quotes by keyword-<a href = "https: //www.free-api. com / doc / 215 "target = '_ blank'> Interface address </a>
+ - Celebrity quotes (can be called online) : Query celebrity quotes by keyword-<a href = "https: //www.free-api. com/doc/215" target = '_ blank'> Interface address </a>
 
 
  - Today's oil price (can be called online) : You can check the oil price in 31 provinces across the country-<a href = "https://www.free-api.com/doc/216" target = '_ blank'> Interface address </a>
@@ -585,7 +585,7 @@
  - Amount lowercase to uppercase (can be called online) : RMB amount lowercase to upperca—— <a href = "https://www.free-api.com/doc/220" target = '_ blank'> Interface address </a>
 
 
- - Movie box office (can be called online) : The latest box office list, online box office-<a href = "https: // www. free-api.com/doc/221 "target = '_ blank'> Interface address </a>
+ - Movie box office (can be called online) : The latest box office list, online box office-<a href = "https: // www. free-api.com/doc/221" target = '_ blank'> Interface address </a>
 
 
  - National long-distance bus (can be called online) : National long-distance bus timetable inquiry-< a href = "https://www.free-api.com/doc/222" target = '_ blank'> Interface address </a>
@@ -609,7 +609,7 @@
  - Short link generation (can be called online)  : Find the website to provide long URL links shortened to Sina short network, —— <a href="https://www.free-api.com/doc/228" target='_blank'> Interface address < / a>
 
 
- - Translate (can be called online) : The translation API provides a free and open interface, covering Chinese, English, —— <a href = "https: //www.free- api.com/doc/229 "target = '_ blank'> Interface address </a>
+ - Translate (can be called online) : The translation API provides a free and open interface, covering Chinese, English, —— <a href = "https: //www.free- api.com/doc/229" target = '_ blank'> Interface address </a>
 
 
  - Black cloud vulnerability (can be called online) : Look at the latest security vulnerability of Wu—— <a href="https://www.free-api.com/doc/230" target='_blank'> Interface address </a>
@@ -618,7 +618,7 @@
  - WeChat public account Inquiry (can be called online) : Search for popular WeChat articles, WeChat public accounts, etc. based on keywords —— <a href = "https://www.free-api.com/doc/231" target = '_ blank'> Interface address </a>
 
 
- - Online word segmentation (can be called online) : Chinese online word extraction based on deep learning-<a href = "https: // www. free-api.com/doc/232 "target = '_ blank'> Interface address </a>
+ - Online word segmentation (can be called online) : Chinese online word extraction based on deep learning-<a href = "https: // www. free-api.com/doc/232" target = '_ blank'> Interface address </a>
 
 
  - MD5 crack (can be called online) : md5 ciphertext: 16-bit, 32-bit, sha1 (4 —— <a href="https://www.free-api.com/doc/233" target='_blank'> Interface address </a>
@@ -637,7 +637,7 @@
  - News headlines (available online) : Latest news headlines-<a href="https://www.free-api.com/doc/238" target='_blank'> Interface address </a>
 
 
- - Constellation horoscope (can be called online) : Zodiac constellation daily, monthly, annual horoscope, uninterrupted —— <a href = "https://www.free-api.com/doc/239 "target = '_ blank'> Interface address </a>
+ - Constellation horoscope (can be called online) : Zodiac constellation daily, monthly, annual horoscope, uninterrupted —— <a href = "https://www.free-api.com/doc/239" target = '_ blank'> Interface address </a>
 
 
 
@@ -688,7 +688,7 @@
  - Get general user information : Get user information such as network operator, etc.-<a href = "https://www.free-api.com/doc/ 254 "> Interface address </a>
 
 
- - Three-in-one payment code : Including Alipay, QQ, WeChat-<a href = "https://www.free-api.com / doc / 255 "> Interface address </a>
+ - Three-in-one payment code : Including Alipay, QQ, WeChat-<a href = "https://www.free-api.com/doc/255 "> Interface address </a>
 
 
  - IP lookup : Get the province / city where it is located based on the IP address-<a href = "https: //www.f ree-api.com/doc/252">Interface address </a>
@@ -730,7 +730,7 @@
  - Distance measurement : Measure distance based on latitude and longitude-<a href="https://www.free-api.com/doc/264"> Access Address </a>
 
 
- - Administrative area query (can be called online) : According to the search criteria entered by the user, it can help users quickly —— <a href = "https: // www .free-api.com / doc / 265 "> Interface address </a>
+ - Administrative area query (can be called online) : According to the search criteria entered by the user, it can help users quickly —— <a href = "https: // www .free-api.com/doc/265 "> Interface address </a>
 
 
  - Rectangular traffic situation : Able to determine rectangular traffic situation, road condition information 2 minutes —— < a href = "https://www.free-api.com/doc/266"> Interface address </a>
@@ -745,7 +745,7 @@
  - Input prompt (can be called online) : Provides a query list based on keywords entered by the user to return a list of suggestions-<a href="https://www.free-api.com/doc/269"> Interface address </a>
 
 
- - Weather query (can be called online) : Query the current / future weather conditions in the target area-<a href = "https: //www.free-api. com / doc / 270 "> Interface address </a>
+ - Weather query (can be called online) : Query the current / future weather conditions in the target area-<a href = "https: //www.free-api. com/doc/270 "> Interface address </a>
 
 
  - IP Positioning (can be called online) : Convert IP information to geographic location information-<a href="https://www.free-api.com/doc/271"> Interface address </a> < br>
@@ -759,7 +759,7 @@
 
 ----------
 
- - Retrieval of administrative divisions (can be called online) : Developers can use this function to search within an administrative division (—— <a href = "https: //www.free-api .com / doc / 273 "> Interface address </a>
+ - Retrieval of administrative divisions (can be called online) : Developers can use this function to search within an administrative division (—— <a href = "https: //www.free-api .com/doc/273 "> Interface address </a>
 
 
  - Circular area search (available online) : The developer can set the center and radius of the circle to search for the area within the circle .—— <a href="https://www.free-api.com/doc/274"> Interface address </a>
@@ -781,7 +781,7 @@
 
 
  - Bus route planning (can be called online) : Search for eligible public transportation schemes based on start and end points —— <a href="https://www.free-api.com/doc/280"> Interface address </a> <br >
- - Riding route planning (can be called online) : Retrieve qualified cycling route planning based on the start and end coordinates —— <a href = "https: //www.free-api. com / doc / 281 "> Interface address </a>
+ - Riding route planning (can be called online) : Retrieve qualified cycling route planning based on the start and end coordinates —— <a href = "https: //www.free-api. com/doc/281 "> Interface address </a>
 
 
  - Driving route planning (can be called online) : Retrieve qualified driving route planning according to the starting and ending coordinates —— <a href = "https://www.free-api.com/doc/282"> Interface address </a>
@@ -805,7 +805,7 @@
  - Non-Baidu coordinate system conversion (can be called online) : Users can use this service to realize non-Baidu coordinate system → 100 —— <a href="https://www.free-api.com/doc/288"> Interface address </a>
 
 
- - Express query (can be called online) : You can query the express mail of most mainstream courier according to the courier number —— <a href = "https: //www.free-api .com / doc / 289 "> Interface address </a>
+ - Express query (can be called online) : You can query the express mail of most mainstream courier according to the courier number —— <a href = "https: //www.free-api .com/doc/289 "> Interface address </a>
 
 
  - File conversion : The file is converted to the specified format, and a successful conversion is returned —— <a href = "https://www.free-api.com/doc/290 "> Interface address </a>
@@ -840,7 +840,7 @@
  - Three-in-one receipt Two-dimensional code : Collect QQ, WeChat, and Alipay receipts together, eliminating the need for —— <a href="https://www.free-api.com/doc/297"> Interface address </a>
 
 
- - Two-dimensional code generation : directly convert the URL into a two-dimensional code image-<a href = "https: // www .free-api.com / doc / 298 "> Interface address </a>
+ - Two-dimensional code generation : directly convert the URL into a two-dimensional code image-<a href = "https: // www .free-api.com/doc/298 "> Interface address </a>
 
 
  - Two-dimensional code decoding (can be called online) : Decode and analyze the two-dimensional code image- <a href="https://www.free-api.com/doc/299"> Interface address </a>
@@ -852,7 +852,7 @@
  - Short URL restoration (can be called online) : Restore the shortened short URL and support common short URLs-<a href="https://www.free-api.com/doc/301"> interface Address </a>
 
 
- - Netease cloud music random songs (can be called online) : Netease cloud music, random song output-<a href = "https: //www.free-api. com / doc / 302 "> Interface address </a>
+ - Netease cloud music random songs (can be called online) : Netease cloud music, random song output-<a href = "https: //www.free-api. com/doc/302 "> Interface address </a>
 
 
  - Get relevant information of visitors (can be called online) : According to the visitor's IP address, operating system, browser, access ... <a href="https://www.free-api.com/doc/303"> Interface address </a>
