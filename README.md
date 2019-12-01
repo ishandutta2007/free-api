@@ -322,7 +322,8 @@
  - Constellation fortune : Updated daily at 1:00, 7:00, and 17:00 . Contains twelve constellations - <a href="https://www.free-api.com/doc/128" target='_blank'> Interface address </a>
 
 
- - PDF file Text extraction : Extract text information from PDF files - <a href="https://www.free-api.com/doc/129" target='_blank'> Interface address </a> < br>
+ - PDF file Text extraction : Extract text information from PDF files - <a href="https://www.free-api.com/doc/129" target='_blank'> Interface address </a> 
+
  - Top Searchwords : Updated every 2 hours. Query the hottest Internet according to the classification - <a href="https://www.free-api.com/doc/131" target='_blank'> Interface address </a>
 
 
@@ -535,7 +536,8 @@
  - Simplified and traditional Martian text conversion (can be called online) : Simplified, Traditional, Martian conversion of Chinese characters - <a href="https://www.free-api.com/doc/202" target='_blank'> Interface address </a>
 
 
- - Idiom dictionary (can be called online) : Idiom query - <a href="https://www.free-api.com/doc/203" target='_blank'> Interface address </a> < br>
+ - Idiom dictionary (can be called online) : Idiom query - <a href="https://www.free-api.com/doc/203" target='_blank'> Interface address </a> 
+
  - Xihou language (can be called online) : Xihou language query, search for Xiazi language based on keywords - <a href="https://www.free-api.com/doc/204" target=' _blank '> Interface address </a>
 
 
@@ -545,7 +547,8 @@
  - Today in history (can be called online) : Taking history as a mirror, you can know what to do. Borrow success or failure in history - <a href="https://www.free-api.com/doc/206" target='_blank'> Interface address </a>
 
 
- - Cihai (can be called online) : Query word explanation - <a href="https://www.free-api.com/doc/207" target='_blank'> Interface address </a> < br>
+ - Cihai (can be called online) : Query word explanation - <a href="https://www.free-api.com/doc/207" target='_blank'> Interface address </a> 
+
  - Mobile number attribution (can be called online) : Query attribution, operator, number type by mobile number - <a href="https: //www.free-api .com/doc/208" target='_ blank'> Interface address </a>
 
 
@@ -750,7 +753,8 @@
  - Weather query (can be called online) : Query the current / future weather conditions in the target area - <a href="https: //www.free-api. com/doc/270 "> Interface address </a>
 
 
- - IP Positioning (can be called online) : Convert IP information to geographic location information - <a href="https://www.free-api.com/doc/271"> Interface address </a> < br>
+ - IP Positioning (can be called online) : Convert IP information to geographic location information - <a href="https://www.free-api.com/doc/271"> Interface address </a> 
+
  - Location range query (can be called online) : Query the address-related information based on latitude and longitude query - <a href="https://www.free-api.com/doc/272"> Interface address </a>
 
 ----------
