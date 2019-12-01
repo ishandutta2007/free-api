@@ -260,7 +260,7 @@
  - Guess it : Randomly return riddles There are 25,000 riddles that are updated daily. - <a href="https://www.free-api.com/doc/103" target='_blank'> Interface address </a>
 
 
- - ID query >: You can check the place of issue, birthday, gender according to the ID number - <a href="https://www.free-api.com/doc/104" target='_blank'> Interface address </a>
+ - ID query : You can check the place of issue, birthday, gender according to the ID number - <a href="https://www.free-api.com/doc/104" target='_blank'> Interface address </a>
 
 
  - Ai Fei Weather Plugin : Ai Fei Weather is one of the official APIs of ShowAPI - <a href="https://www.free-api.com/doc/105" target='_ blank'> Interface address </a>
